@@ -1,6 +1,6 @@
 [![N|Solid](http://ubezpieczenia.aviva.pl/img/corp_02/logo.png)](http://ubezpieczenia.aviva.pl/)
 
-1. Generowanie voucherów/kuponów dla klientów
+1. Temat 1
  - [] Java 8
  - [] Restful  web service
  - [] PostgreSQL
@@ -8,16 +8,16 @@
  - [] SSO
  - [] Springboot
 
-2. Ułatwienie konfigurowania testów automatycznych
- - [] Java 8
- - [] Gradle
- - [] Spring
- - [] Junit
- - [] Angular
- - [] Jboss
- - [] SLF4J
+2. Temat 2
+ - [] Java 8 - Justyna Komarowska
+ - [] Gradle - Justyna Komarowska
+ - [] Spring - Karol Łukaszuk
+ - [] Junit - Darek Nurzyński
+ - [] Angular - Darek Nurzyński
+ - [] Jboss - Karol Łukaszuk
+ - [] SLF4J - Karol Łukaszuk
 
-3. Wyszukiwanie agentów firmy, najlepiej odpowiadających danemu klientowi
+3. Temat 3
  - Mobile Client
     - [] Angular JS
     - [] Bootstrap
