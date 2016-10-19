@@ -1,4 +1,4 @@
-# Aviva
+[![N|Solid](http://ubezpieczenia.aviva.pl/img/corp_02/logo.png)](http://ubezpieczenia.aviva.pl/)
 
 1. Generowanie voucherów/kuponów dla klientów
  - [] Java 8
