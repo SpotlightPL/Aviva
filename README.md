@@ -19,19 +19,19 @@
 
 3. Temat 3 
  - [] Mobile Client
-    - [ ] Angular JS
-    - [ ] Bootstrap
-    - [ ] REST / JSON
+    - [] Angular JS
+    - [] Bootstrap
+    - [] REST / JSON
  - [] Server Side
-    - [ ] REST/JSON Spring MVC
-    - [ ] Hibernate
-    - [ ] Querydsl
-    - [ ] Springboot
-    - [ ] PostgreSQL
+    - [] REST/JSON Spring MVC
+    - [] Hibernate
+    - [] Querydsl
+    - [] Springboot
+    - [] PostgreSQL
  - [] Pozostałe
-    - [ ] Git
-    - [ ] Gradle
-    - [ ] Liquibase
-    - [ ] Grunt
-    - [ ] Bower
-    - [ ] Npm
+    - [] Git
+    - [] Gradle
+    - [] Liquibase
+    - [] Grunt
+    - [] Bower
+    - [] Npm
