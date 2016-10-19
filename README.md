@@ -1,7 +1,7 @@
 # Aviva
 
 1. Temat 1
- - [] Java 8
+ - [X] Java 8
  - [] Restful  web service
  - [] PostgreSQL
  - [] Angular2
