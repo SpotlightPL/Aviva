@@ -18,17 +18,17 @@
  - [] SLF4J
 
 3. Wyszukiwanie agentów firmy, najlepiej odpowiadających danemu klientowi
- - [] Mobile Client
+ - Mobile Client
     - [] Angular JS
     - [] Bootstrap
     - [] REST / JSON
- - [] Server Side
+ - Server Side
     - [] REST/JSON Spring MVC
     - [] Hibernate
     - [] Querydsl
     - [] Springboot
     - [] PostgreSQL
- - [] Pozostałe
+ - Pozostałe
     - [] Git
     - [] Gradle
     - [] Liquibase
