@@ -1,14 +1,14 @@
 # Aviva
 
-1. Temat 1
- - [X] Java 8
+1. Generowanie voucherów/kuponów dla klientów
+ - [] Java 8
  - [] Restful  web service
  - [] PostgreSQL
  - [] Angular2
  - [] SSO
  - [] Springboot
 
-2. Temat 2
+2. Ułatwienie konfigurowania testów automatycznych
  - [] Java 8
  - [] Gradle
  - [] Spring
@@ -17,7 +17,7 @@
  - [] Jboss
  - [] SLF4J
 
-3. Temat 3 
+3. Wyszukiwanie agentów firmy, najlepiej odpowiadających danemu klientowi
  - [] Mobile Client
     - [] Angular JS
     - [] Bootstrap
