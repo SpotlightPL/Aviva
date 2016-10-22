@@ -4,10 +4,10 @@
  - [x] Java 8 - Justyna Komarowska
  - [x] Gradle - Justyna Komarowska
  - [ ] REST/JSON Spring MVC
- - [ ] Restful  web service (REST/JSON)
- - [ ] PostgreSQL
- - [ ] SSO
- - [ ] Springboot
+ - [x] Restful  web service (REST/JSON) - Mateusz Sawczuk
+ - [x] PostgreSQL - Mateusz Sawczuk
+ - [x] SSO - Rafał Orluk
+ - [x] Springboot - Konrad Trochimiak
  - [x] Spring - Karol Łukaszuk
  - [x] Junit - Darek Nurzyński
  - [x] Angular2 - Darek Nurzyński
@@ -23,6 +23,6 @@
  - [ ] Npm
  
  ## Zespoły
- 1. Temat 1:
+ 1. Temat 1: Mateusz Sawczuk, Konrad Trochimiak, Rafał Orluk
  2. Temat 2:
  3. Temat 3:
