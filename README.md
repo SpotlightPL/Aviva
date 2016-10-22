@@ -24,5 +24,5 @@
  
  ## Zespoły
  1. Temat 1: Mateusz Sawczuk, Konrad Trochimiak, Rafał Orluk
- 2. Temat 2:
+ 2. Temat 2: Karol Łukaszuk, Dariusz Nurzyński, Justyna Komarowska
  3. Temat 3:
